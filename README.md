@@ -1,11 +1,11 @@
 # Rectangle cover
 
-RectLab covers the ones in a small binary matrix with all-one rectangles. It
+Rectangle cover covers the ones in a small binary matrix with all-one rectangles. It
 compares minimum overlapping covers, disjoint partitions, fooling-set lower
 bounds and arithmetic rank. Every optimal factor set is selectable, with exact
 counts of how often each rectangle appears. Version 0.2.
 
-The same binary matrix can have Boolean rank 3, arithmetic rank 4 and minimum partition size 4. A maximum fooling set can have size 3 while every cover needs 4 rectangles. RectLab makes those distinctions inspectable instead of treating any of them as interchangeable evidence.
+The same binary matrix can have Boolean rank 3, arithmetic rank 4 and minimum partition size 4. A maximum fooling set can have size 3 while every cover needs 4 rectangles. Rectangle cover makes those distinctions inspectable instead of treating any of them as interchangeable evidence.
 
 ## Run
 
