@@ -1,4 +1,4 @@
-# RectLab
+# Rectangle cover
 
 RectLab covers the ones in a small binary matrix with all-one rectangles. It
 compares minimum overlapping covers, disjoint partitions, fooling-set lower
